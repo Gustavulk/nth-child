@@ -16,3 +16,6 @@ ul li:nth-child(2n){
     font-style: italic;
 }
 
+table {
+    background-color: cadetblue;
+}
