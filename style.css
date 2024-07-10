@@ -19,3 +19,13 @@ ul li:nth-child(2n){
 table {
     background-color: cadetblue;
 }
+
+thead th:hover {
+    background-color: rgb(225, 200, 10);
+    color: #ccc;
+}
+
+tfoot td:hover {
+    background-color: brown;
+    color: chartreuse;
+}
